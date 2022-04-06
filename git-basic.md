@@ -9,6 +9,7 @@ $ git config --global user.email "king-kong@gmail.com"
 ```
 
 ### Initialize git
+---
 
 To initialize a git:
 ```
@@ -16,6 +17,7 @@ $git init
 ```
 
 ### Git Branch
+---
 
 * Change default branch master to main:
 ```
@@ -58,6 +60,7 @@ $ git push origin --delete <oldname>
 ```
 
 ### Check Status
+---
 
 * To check the status about your local repo:
 ```
@@ -65,6 +68,7 @@ $ git status
 ```
 
 ### 'add' and 'commit'
+---
 
 * Add specific item:
 ```
@@ -83,6 +87,7 @@ $ git commit -m "commit message"
 ```
 
 ### Remote Git
+---
 
 * To connect with remote git
 ```

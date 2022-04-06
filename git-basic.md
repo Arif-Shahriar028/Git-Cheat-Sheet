@@ -7,7 +7,7 @@ Topic Covered:
 *  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#git-branch"> Git Branch </a>
 *  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#check-status"> Check Status </a>
 *  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#add-and-commit"> add and commit </a>
-*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#remote-git"> Git remote </a>
+*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#git-remote"> Git remote </a>
 
 
 

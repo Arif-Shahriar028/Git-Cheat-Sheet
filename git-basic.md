@@ -1,6 +1,7 @@
 ## Basic Git Command
 
 ###  Configuaration git
+---
 
 ```
 $ git config --global user.name "King Kong"

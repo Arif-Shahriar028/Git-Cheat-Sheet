@@ -1,5 +1,16 @@
 ## Basic Git Command
 
+Topic Covered: 
+
+*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#configuaration-git"> Configuaration git </a>
+*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#initialize-git"> Initialize git </a>
+*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#git-branch"> Git Branch </a>
+*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#check-status"> Check Status </a>
+*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#add-and-commit"> add and commit </a>
+*  <a href = "https://github.com/Arif-Shahriar028/Git-Cheat-Sheet/blob/main/git-basic.md#remote-git"> Git remote </a>
+
+
+
 ###  Configuaration git
 ---
 
@@ -86,7 +97,7 @@ $ git add .
 $ git commit -m "commit message"
 ```
 
-### Remote Git
+### Git Remote
 ---
 
 * To connect with remote git

@@ -97,6 +97,12 @@ $ git add .
 $ git commit -m "commit message"
 ```
 
+* commit file on previous message
+
+```
+$ git commit --amend --no-edit
+```
+
 ### Git Remote
 ---
 
